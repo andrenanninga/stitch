@@ -1,0 +1,16 @@
+{
+  "name": "threading-d3",
+  "version": "0.0.0",
+  "description": "A puzzle game made with d3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andre Nanninga <ag.nanninga@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "d3": "~3.4.6",
+    "zepto": "0.0.4",
+    "underscore": "~1.6.0"
+  }
+}
